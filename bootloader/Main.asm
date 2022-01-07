@@ -1,3 +1,4 @@
+section .boot
 %define FREE_SPACE 0x9000
 
 [BITS 16]
